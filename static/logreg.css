@@ -1,0 +1,26 @@
+#wrapper {
+    width: 600px;
+    margin: 50px auto;
+}
+.flash_msg {
+    border: 2px solid black;
+}
+.red {
+    color: red;
+}
+h2 {
+    margin: 20px 30px 20px 20px; 
+}
+form {
+    border: 2px solid black;
+    width: 345px;
+    margin: 0 auto;
+    min-height: 200px;
+    text-align: right;
+}
+input {
+    margin: 0px 30px 5px 20px;
+}
+label {
+    display: block;
+}
